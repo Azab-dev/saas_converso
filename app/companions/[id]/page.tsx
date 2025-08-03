@@ -18,21 +18,23 @@ const CompanionSession = async ({ params }: CompanionSessionPageProps) => {
 
   if (!user) redirect("/sign-in");
   if (!name) redirect("/companions");
-  console.log(companion);
+
+  console.log("Companion ::", companion);
 
   return (
     <main>
       <article className="flex rounded-border justify-between p-6 max-md:flex-col">
-        <div className="flex items-center gap-2">
+        <div className="flex items-center gap-2 ">
           <div
-            className="size-[72px] flex items-center justify-center rounded-lg max-md:hidden"
+            className="size-[72px] flex items-center  justify-center rounded-lg max-md:hidden"
             style={{ backgroundColor: getSubjectColor(subject) }}
           >
             <Image
-              src={`/icons/${name}.svg`}
+              src={`/icons/${subject}.svg`}
               alt={subject}
-              width={35}
-              height={35}
+              width={75}
+              height={75}
+              className="max-sm:w-fit"
             />
           </div>
 

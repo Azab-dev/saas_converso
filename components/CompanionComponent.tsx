@@ -104,7 +104,7 @@ const CompanionComponent = ({
   };
 
   return (
-    <section className="flex flex-col h-[90vh]">
+    <section className="flex flex-col h-[90vh] ">
       <section className="flex gap-8 max-sm:flex-col">
         <div className="companion-section">
           <div
@@ -123,11 +123,11 @@ const CompanionComponent = ({
               )}
             >
               <Image
-                src={`/icons/${name}.svg`}
+                src={`/icons/${subject}.svg`}
                 alt={subject}
                 width={150}
                 height={150}
-                className="max-sm:w-fit"
+                className="max-sm:w-fit "
               />
             </div>
 
