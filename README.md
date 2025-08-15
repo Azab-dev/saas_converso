@@ -3,11 +3,13 @@
     <img src="https://github.com/Azab-dev/Azab-dev/blob/main/converso.png" alt="Project Banner">
   <br />
 
-  <div>
-    <img src="https://img.shields.io/badge/-Next.JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=black" alt="Next.js" />
-    <img src="https://img.shields.io/badge/-Vapi-black?style=for-the-badge&logoColor=white&color=green" alt="Vapi" />
-    <img src="https://img.shields.io/badge/-Tailwind-00BCFF?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  </div>
+ <div>
+  <img src="https://img.shields.io/badge/-Next.JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=black" alt="Next.js" />
+  <img src="https://img.shields.io/badge/-Vapi-black?style=for-the-badge&logoColor=white&color=green" alt="Vapi" />
+  <img src="https://img.shields.io/badge/-Tailwind-00BCFF?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+</div>
+
 
   <h3 align="center">SaaS LMS Application - AI Voice Tutoring Platform</h3>
   <p align="center">A modern, full-stack learning management system with AI voice tutoring, authentication, subscriptions, and real-time capabilities.</p>
