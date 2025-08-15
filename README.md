@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <img src="public/readme/hero.png" alt="Project Banner">
+    <img src="https://github.com/Azab-dev/Azab-dev/blob/main/converso.png" alt="Project Banner">
   <br />
 
   <div>
